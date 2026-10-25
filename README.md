@@ -1,5 +1,11 @@
 # ReviewHub - Federated Human-in-the-Loop Review Platform
 
+*Federated human-in-the-loop review platform for UN agencies — partitioned data sovereignty and auditable review workflows; TypeScript.*
+
+![category](https://img.shields.io/badge/category-monitoring-evaluation-8B5CF6?style=flat-square) ![language](https://img.shields.io/badge/language-TypeScript-2563EB?style=flat-square) ![license](https://img.shields.io/badge/license-LICENSE%20file-16A34A?style=flat-square) ![maintenance](https://img.shields.io/badge/maintenance-active-16A34A?style=flat-square) ![repo](https://img.shields.io/badge/repo-un--review--hub-111827?style=flat-square)
+
+---
+
 ## Project Overview
 
 ReviewHub is a secure, auditable, federated Human-in-the-Loop (HITL) management platform. The platform routes items (model outputs, flagged cases) to human reviewers, captures decisions and rationales, provides QA/escalation workflows, and exports structured feedback to ML pipelines.
@@ -204,3 +210,7 @@ npm run infra:deploy
 **Last Updated**: 2025-01-14  
 **Version**: 1.0.0  
 **Environment**: Development# un-review-hub
+
+## Contribution and license
+
+Issues and pull requests are welcome — please open an issue describing the proposed change before submitting substantive work. License terms are set out in the LICENSE file in the repository root.
